@@ -48,7 +48,7 @@ dependencies {
     implementation("androidx.test.ext:junit-ktx:1.1.5")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("androidx.test.espresso:espresso-contrib:3.5.1")
-    implementation("androidx.core:core-ktx:1.12.0-alpha04")
+    implementation("androidx.core:core-ktx:1.10.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     androidTestImplementation("androidx.test:runner:1.5.2")
     androidTestImplementation("androidx.test:rules:1.5.0")
